@@ -1,1 +1,1 @@
-#!/bin/bash
+Fisrt we learn shell basics
